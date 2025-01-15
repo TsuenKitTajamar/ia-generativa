@@ -22,9 +22,10 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
 ```
 
 ## Exercises List
-1. Exercise 1 - Practica Preprocesamiento de texto para OpenAI -> https://github.com/tamasma/master-ia-tajamar/tree/main/preprocessing
-2. Exercise 2 - OpenAI Getting Started 1 -> https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Ckeyless%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython-new&pivots=programming-language-python
-3. Exercise 3 - OpenAI Getting Started 2 -> https://github.com/tamasma/master-ia-tajamar/blob/main/01_OpenAI_getting_started.ipynb
-4. Exercise 4 - Desarrollando barreras contra las alucinaciones -> https://github.com/tamasma/master-ia-tajamar/blob/main/Developing_hallucination_guardrails.ipynb
-5. Exercise 5 - Utilización del SDK de OpenAI para python -> master-ia-tajamar/quickstart.ipynb at main · tamasma/master-ia-tajamar
-6. Exercise 6 - WebApp: Resumen de Emails -> master-ia-tajamar/email_app.md at main · tamasma/master-ia-tajamar
+1. Exercise 1 - Practica Preprocesamiento de texto para OpenAI -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/tree/main/preprocessing)
+2. Exercise 2 - OpenAI Getting Started 1 -> [Enlace a la guía](https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Ckeyless%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython-new&pivots=programming-language-python)
+3. Exercise 3 - OpenAI Getting Started 2 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/01_OpenAI_getting_started.ipynb)
+4. Exercise 4 - Desarrollando barreras contra las alucinaciones -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/Developing_hallucination_guardrails.ipynb)
+5. Exercise 5 - Utilización del SDK de OpenAI para python -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/quickstart.ipynb)
+6. Exercise 6 - WebApp: Resumen de Emails -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/email_app.md)
+7. Exercise 7 - Práctica Filtrado de contenido en OpenAI -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/chat.ipynb)
