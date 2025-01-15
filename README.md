@@ -27,3 +27,4 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
 3. Exercise 3 - OpenAI Getting Started 2 -> https://github.com/tamasma/master-ia-tajamar/blob/main/01_OpenAI_getting_started.ipynb
 4. Exercise 4 - Desarrollando barreras contra las alucinaciones -> https://github.com/tamasma/master-ia-tajamar/blob/main/Developing_hallucination_guardrails.ipynb
 5. Exercise 5 - Utilización del SDK de OpenAI para python -> master-ia-tajamar/quickstart.ipynb at main · tamasma/master-ia-tajamar
+6. Exercise 6 - WebApp: Resumen de Emails -> master-ia-tajamar/email_app.md at main · tamasma/master-ia-tajamar
