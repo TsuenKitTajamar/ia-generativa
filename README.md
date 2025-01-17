@@ -31,4 +31,7 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
 7. Exercise 7 - Práctica Filtrado de contenido en OpenAI -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/chat.ipynb)
 8. Exercise 8 - Java Aplicacion con SpingBoot integrado con OpenAI -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/tree/main/Spring%20AI%20with%20Azure%20OpenAI%20Service)
     - [Demos Video Link](https://tajamar365-my.sharepoint.com/:f:/p/tsuenkit_lui/EiQUEAP_SxpDrmTd3cMPkjEBKVfm-jdNKsqmU6PO7tSWGQ?e=h54QYu)
-9. Exercise 9 - Practica Embeddings 1 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/basic_embeddings_example_restapi.ipynb)
+9. Exercise 9 
+    - Practica Embeddings 1 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/basic_embeddings_example_restapi.ipynb)
+    - Practica Embeddings 2 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/embeddings.ipynb)
+    - Practica Embeddings 3 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/Embedding_long_inputs.ipynb)
