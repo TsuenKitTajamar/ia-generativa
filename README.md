@@ -35,3 +35,5 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
     - Practica Embeddings 1 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/basic_embeddings_example_restapi.ipynb)
     - Practica Embeddings 2 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/embeddings.ipynb)
     - Practica Embeddings 3 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/Embedding_long_inputs.ipynb)
+10. Exercise 10
+    - Restringir acceso a OpenAI a una subred
