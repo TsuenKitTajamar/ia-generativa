@@ -10,7 +10,7 @@ ___
 * Exercise: Write a prompt that generates the expected completion
 * Input text: `I was enjoying the sun, but then a huge cloud came and covered the sky.`
 * Expected completion: `Ich genoss die Sonne, aber dann kam eine riesige Wolke und bedeckte den Himmel.`
-![alt text](images\image-1.png)
+![alt text](images/image-1.png)
 
 ___
 
@@ -19,7 +19,7 @@ ___
 * Exercise: Write a prompt that generates the expected completion
 * Input text: `I was enjoying the sun, but then a huge cloud came and covered the sky.`
 * Expected completion: `I was not enjoying the sun, and then a huge cloud did not come and cover the sky.`
-![alt text](images\image-2.png)
+![alt text](images/image-2.png)
 
 ___
 
@@ -33,7 +33,7 @@ ___
   Neutral: 0.20
   Negative: 0.05
   ```
-![alt text](images\image-3.png)
+![alt text](images/image-3.png)
 ___
 
 ## :question: Exercise 4 - E-Mail Summarization
@@ -46,7 +46,7 @@ ___
   Open Questions: XYZ
   Action Items: XYZ
   ```
-![alt text](images\image-4.png)
+![alt text](images/image-4.png)
 
 ___
 
@@ -55,7 +55,7 @@ ___
 * Exercise: Write a prompt that generates the expected completion
 * Input text: `I was enjoying the sun, but then a huge cloud came and covered the sky.`
 * Expected completion: `She was enjoying the sun, but then a huge cloud came and covered the sky.`
-![alt text](images\image-5.png)
+![alt text](images/image-5.png)
 ___
 
 ## :question: Exercise 6 - Multiple Tasks
@@ -70,7 +70,7 @@ ___
       "third_person": "She was enjoying the sun, but then a huge cloud came and covered the sky."
   }
   ```
-![alt text](images\image-6.png)
+![alt text](images/image-6.png)
 ___
 
 ## :question: Exercise 7 - Data extraction to JSON
@@ -97,7 +97,7 @@ ___
       "dob": "09/09/1989"
   }
   ```
-![alt text](images\image-7.png)
+![alt text](images/image-7.png)
 ___
 
 ## :question: Exercise 8 - Fashion product description
@@ -115,7 +115,7 @@ ___
   ```
   Stay warm and stylish this winter with our cozy cotton sweaters, perfect for the fashion-forward teenager. Refresh your wardrobe with the latest winter styles from our collection.
   ```
-![alt text](images\image-8.png)
+![alt text](images/image-8.png)
 
 
 ___
@@ -129,7 +129,7 @@ Prompt
 ```
 Write a blog post about travelling to Thailand and give me hashtages
 ```
-![alt text](images\image-9.png)
+![alt text](images/image-9.png)
 ChatGPT Answer
 ```
 Exploring Thailand: A Traveler’s Paradise
@@ -217,8 +217,8 @@ ___
       "action_item": ["track_package", "inquire_package_status", "contact_customer"]
   }
   ```
-![alt text](image-10.png)
-![alt text](image-11.png)
+![alt text](images/image-10.png)
+![alt text](images/image-11.png)
 ___
 
 ## :question: Exercise 11 - Few-shot learning
@@ -242,7 +242,7 @@ ___
   Harry, Ron and Hermione walk away from their last year at Hogwarts to find and destroy the remaining Horcruxes, putting an end to Voldemort's bid for immortality. But with Harry's beloved Dumbledore dead and Voldemort's unscrupulous Death Eaters on the loose, the world is more dangerous than ever.
   ```
 * Expected completion: Classification of the new data point
-![alt text](image-12.png)
+![alt text](images/image-12.png)
 
 
 ___
@@ -273,7 +273,7 @@ LIMIT 10;
 
 ```
 
-![alt text](image-13.png)
-![alt text](image-14.png)
+![alt text](images/image-13.png)
+![alt text](images/image-14.png)
 
 
