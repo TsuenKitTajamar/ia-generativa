@@ -42,4 +42,6 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
     - Ejercicios de Ingenieria del Prompt 2 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/05_OpenAI_parameters.ipynb)
     - Ejercicios de Ingenieria del Prompt 3 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/06_best_practice-prompt-engineering.ipynb)
     - Ejercicios de Ingenieria del Prompt 4 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/07_prompt_engineering.ipynb)
+12. Exercise 12
+    - Fine Tuning Data preparation -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/tree/main/fine-tuned_qa-rag)
 
