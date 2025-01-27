@@ -44,4 +44,6 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
     - Ejercicios de Ingenieria del Prompt 4 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/07_prompt_engineering.ipynb)
 12. Exercise 12
     - Fine Tuning Data preparation -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/tree/main/fine-tuned_qa-rag)
+13. Exercise 13
+    - Generative search (RAG) with grounding data from Azure AI Search -> [Microsoft Learn guide](https://learn.microsoft.com/en-us/azure/search/search-get-started-rag)
 
