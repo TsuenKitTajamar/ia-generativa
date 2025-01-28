@@ -46,4 +46,8 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
     - Fine Tuning Data preparation -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/tree/main/fine-tuned_qa-rag)
 13. Exercise 13
     - Generative search (RAG) with grounding data from Azure AI Search -> [Microsoft Learn guide](https://learn.microsoft.com/en-us/azure/search/search-get-started-rag)
+14. Exercise 14
+    - Fine Tuning con OpenAI (tuning gpt-4o-mini) -> [Microsoft Learn guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/fine-tune?tabs=python-new%2Ccommand-line)
+15. Exercise 15
+    - Gestión de conversacion con OpenAI -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/chatGPT_managing_conversation.ipynb)
 
