@@ -50,4 +50,6 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
     - Fine Tuning con OpenAI (tuning gpt-4o-mini) -> [Microsoft Learn guide](https://learn.microsoft.com/en-us/azure/ai-services/openai/tutorials/fine-tune?tabs=python-new%2Ccommand-line)
 15. Exercise 15
     - Gestión de conversacion con OpenAI -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/chatGPT_managing_conversation.ipynb)
+16. Exercise 16
+    - Generate images with a DALL-E model -> [Microsoft Learn guide](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/05-generate-images.html)
 
