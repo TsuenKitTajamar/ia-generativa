@@ -1,0 +1,126 @@
+Enter the prompt (or type 'quit' to exit): What hike should I do near Rainier?
+
+Sending request for summary to Azure OpenAI endpoint...
+
+
+Response: If you're looking for a hike near Rainier National Park, I have three suggestions for you:
+
+1. Skyline Trail: This is a moderate hike with a distance of approximately 5 miles. It offers stunning views of Mount Rainier and the surrounding alpine meadows. During the summer months, you'll be able to see an abundance of wildflowers, including lupines and paintbrushes.
+
+2. Naches Peak Loop: This is a moderate loop hike that is around 3.5 miles long. It takes you through beautiful subalpine meadows and offers breathtaking views of Mount Rainier, Tipsoo Lake, and the surrounding Cascade Mountains. Keep an eye out for wildlife such as marmots and mountain goats.
+
+3. Comet Falls: If you're up for a more challenging hike, Comet Falls is a great option. It is a 4.8-mile out-and-back trail that features a stunning 320-foot waterfall. Along the way, you'll be treated to lush forests and scenic views of the surrounding mountains. Look out for the Western Trillium, a native wildflower that blooms in the spring.
+
+No matter which hike you choose, you're sure to be immersed in the beauty of the Pacific Northwest and its diverse flora and fauna. Happy hiking!
+
+
+
+
+
+
+
+
+
+
+Enter the prompt (or type 'quit' to exit): Where should I hike near Boise? I'm looking for something of easy difficulty, between 2 to 3 miles, with moderate elevation gain.
+
+Sending request for summary to Azure OpenAI endpoint...
+
+
+Response: Great choice! Near Boise, I recommend checking out the Hulls Gulch Reserve. It offers several trails that fit your criteria. One option is the Lower Hulls Gulch Trail, which is a 2.4-mile loop with a moderate elevation gain.
+
+Interesting fact: Hulls Gulch Reserve is home to a diverse array of wildlife, including mule deer, elk, coyotes, and various bird species. Keep an eye out for these fascinating creatures as you hike!
+
+Another option is the Military Reserve - Freestone Ridge Loop, which is a 2.6-mile loop with a moderate elevation gain. This trail offers beautiful views of the surrounding landscape.
+
+Interesting fact: The Military Reserve is a unique blend of natural beauty and military history. It was once used as a training 
+ground for soldiers during World War II.
+
+Finally, the Camel's Back Park to Hulls Gulch Loop is a 3-mile loop with a moderate elevation gain. This trail takes you through scenic landscapes and provides a good workout.
+
+Interesting fact: Camel's Back Park is named after a large rock formation that resembles a camel's hump. It offers panoramic views of Boise and the surrounding mountains.
+
+I hope you enjoy your hike in the beautiful Boise area!
+
+
+
+
+
+
+
+
+Enter the prompt (or type 'quit' to exit): Where is a good hike near Boise?
+
+Sending request for summary to Azure OpenAI endpoint...
+
+
+Response: A great hike near Boise is the Table Rock Trail. It is a 3.7-mile round trip hike with stunning views of Boise and the surrounding valley. An interesting fact about this area is that Table Rock is home to a population of desert bighorn sheep, so 
+keep an eye out for them during your hike!
+
+Another option is the Hulls Gulch Nature Trail. This 6.9-mile loop trail offers a variety of landscapes, including meadows, forests, and creeks. Along the trail, you might spot some local wildlife such as deer or birds of prey.
+
+If you're looking for a shorter hike, the Oregon Trail Interpretive Park at Bonneville Point is a great choice. This 1.6-mile loop trail takes you through the historic site where pioneers rested and repaired their wagons before heading west. While hiking, 
+you can learn about the history of the Oregon Trail and enjoy scenic views of the Boise River Valley.
+
+I hope you enjoy your hiking adventure near Boise!
+
+
+
+
+
+
+
+Enter the prompt (or type 'quit' to exit): How difficult is the second hike you suggested?
+
+Sending request for summary to Azure OpenAI endpoint...
+
+
+Response: The difficulty level of the second hike I suggested near Rainier National Park varies depending on the specific trail. Could you please specify which hike you are referring to so I can provide you with more accurate information?
+
+
+
+
+
+
+
+
+
+
+
+Enter the prompt (or type 'quit' to exit): Where is a good hike near Boise?
+
+Sending request for summary to Azure OpenAI endpoint...
+
+
+Summary: A great hike near Boise is the Table Rock Trail. It is a 4-mile out-and-back trail that offers stunning views of the city and the surrounding landscape. Fun fact: Table Rock is a popular spot for birdwatching, with over 100 species of birds recorded in the area.
+
+Another option is the Hulls Gulch Interpretive Trail. This 6-mile loop trail takes you through the beautiful Boise Foothills and offers opportunities for wildlife spotting. Fun fact: The Boise Foothills are home to a variety of wildlife, including mule deer, coyotes, and a diverse range of bird species.
+
+If you're looking for a shorter hike, the Boise River Greenbelt is a scenic trail that stretches for over 25 miles along the Boise River. You can choose the length of your hike and enjoy the peacefulness of the river and surrounding nature. Fun fact: The Boise River Greenbelt is a haven for wildlife, including beavers, river otters, and a variety of fish species.
+
+
+
+
+
+
+
+
+Enter the prompt (or type 'quit' to exit): How difficult is the second hike you suggested?
+
+Sending request for summary to Azure OpenAI endpoint...
+
+
+Summary: The Hulls Gulch Interpretive Trail can be considered a moderate difficulty hike. The 6-mile loop has some elevation gain and can be rocky in certain sections. It is a well-maintained trail with clearly marked signs, but proper footwear and some hiking experience would be beneficial. It is a great option for those looking for a slightly more challenging hike with beautiful 
+views of the Boise Foothills.
+
+
+
+
+
+
+Enter the prompt (or type 'quit' to exit): Which one of the mentioned are the easiest?
+
+Sending request for summary to Azure OpenAI endpoint...
+
+
+Summary: The easiest hike among the options mentioned would be the Boise River Greenbelt. This trail offers a variety of distances to choose from, so you can make it as easy or as long as you'd like. The terrain is mostly flat and the trail is paved, making it accessible for all fitness levels. It's a great option for a leisurely walk or bike ride along the scenic Boise River.  
