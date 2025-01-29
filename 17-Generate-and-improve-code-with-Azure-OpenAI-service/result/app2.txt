@@ -1,0 +1,19 @@
+Sure! Here are four unit tests for the `absolute_square` function:
+
+1. Test case: Both numbers are positive
+   Input: `absolute_square(5, 3)`
+   Expected output: `4`
+   
+2. Test case: Both numbers are negative
+   Input: `absolute_square(-7, -4)`
+   Expected output: `9`
+   
+3. Test case: One number is positive and the other is negative
+   Input: `absolute_square(-2, 6)`
+   Expected output: `64`
+   
+4. Test case: One number is zero
+   Input: `absolute_square(0, 9)`
+   Expected output: `81`
+
+These test cases cover different scenarios to ensure that the function handles positive, negative, and zero values correctly.

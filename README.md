@@ -52,4 +52,6 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
     - Gestión de conversacion con OpenAI -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/chatGPT_managing_conversation.ipynb)
 16. Exercise 16
     - Generate images with a DALL-E model -> [Microsoft Learn guide](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/05-generate-images.html)
+17. Exercise 17
+    - Generate and improve code with Azure OpenAI Service -> [Microsoft Learn guide](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/04-code-generation.html)
 
