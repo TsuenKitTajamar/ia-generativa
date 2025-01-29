@@ -54,4 +54,8 @@ AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
     - Generate images with a DALL-E model -> [Microsoft Learn guide](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/05-generate-images.html)
 17. Exercise 17
     - Generate and improve code with Azure OpenAI Service -> [Microsoft Learn guide](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/04-code-generation.html)
+17. Exercise 17
+    - Implement Retrieval Augmented Generation (RAG) with Azure OpenAI Service -> [Microsoft Learn guide](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/06-use-own-data.html)
+18. Exercise 18
+    - 18-Implement-Retrieval-Augmented-Generation -> [Microsoft Learn guide](https://microsoftlearning.github.io/mslearn-openai/Instructions/Exercises/06-use-own-data.html)
 
