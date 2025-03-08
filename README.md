@@ -1,4 +1,5 @@
-# IAG Module - Modulo de IAG - Inteligencia Artificial Generativa
+# AI Generative Module - Modulo de IA Generativa - Inteligencia Artificial Generativa
+
 ## Configuration
 1.Install necessary libraries:
 - Install `OpenAI` library in your python environment
@@ -21,7 +22,7 @@ AZURE_OPENAI_ENDPOINT = "YOUR_AZURE_ENDPOINT"
 AZURE_OPENAI_API_KEY = "YOUR_AZURE_OPENAI_API_KEY"
 ```
 
-## Exercises List
+## Exercises List - IA Generativa Usuario
 1. Exercise 01 - Practica Preprocesamiento de texto para OpenAI -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/tree/main/preprocessing)
 2. Exercise 02 - OpenAI Getting Started 1 -> [Enlace a la guía de Microsoft Learn](https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line%2Ckeyless%2Cjavascript-keyless%2Ctypescript-keyless%2Cpython-new&pivots=programming-language-python)
 3. Exercise 03 - OpenAI Getting Started 2 -> [Enlace al repositorio](https://github.com/tamasma/master-ia-tajamar/blob/main/01_OpenAI_getting_started.ipynb)
